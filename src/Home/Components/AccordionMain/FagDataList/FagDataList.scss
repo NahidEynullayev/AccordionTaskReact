@@ -1,0 +1,9 @@
+@use "../../../../assets/global" as *;
+@use "../../../../assets/mixin" as *;
+
+.list_Container {
+  width: 770px;
+  min-height: 560px;
+  // border: 1px solid red;
+  box-sizing: content-box;
+}
